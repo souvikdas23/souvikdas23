@@ -8170,3 +8170,9 @@ button.close {
 
 .box {
   display: block; }
+  .box h3 {
+    text-align: center; }
+  @media screen and (max-width: 768px) {
+    .box {
+      padding: 15px 10px;
+      border-bottom: 1px solid #788692; } }
