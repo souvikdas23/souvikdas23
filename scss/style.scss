@@ -1,0 +1,33 @@
+@import "bootstrap-sass-3.3.7/assets/stylesheets/bootstrap";
+@import "font-awesome/font-awesome";
+@import "reset";
+@import "variables";
+@import "mixins";
+
+#middle-part{
+	h3{
+		float: right;
+		margin-right: 30%;
+	}
+}
+
+.footer{
+	p{
+		padding: 2% 0% 2% 3%;
+		color:#fff;
+	}
+}
+
+.profile-img{
+	float: right;
+}
+
+.image-holder{
+	text-align: center;
+}
+
+.box{
+	display: block;
+}
+ 
+
